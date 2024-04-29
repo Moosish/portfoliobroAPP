@@ -1,0 +1,1 @@
+ C:\\Users\\tpasl\\AndroidStudioProjects\\algovest\\.dart_tool\\flutter_build\\b877a0b3e87277a60df40f373bad76ae\\native_assets.yaml: 
